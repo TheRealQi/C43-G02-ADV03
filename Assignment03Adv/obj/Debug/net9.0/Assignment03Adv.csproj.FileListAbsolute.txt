@@ -1,0 +1,14 @@
+C:\Users\TheRe\RiderProjects\Assignment03Adv\Assignment03Adv\bin\Debug\net9.0\Assignment03Adv.exe
+C:\Users\TheRe\RiderProjects\Assignment03Adv\Assignment03Adv\bin\Debug\net9.0\Assignment03Adv.deps.json
+C:\Users\TheRe\RiderProjects\Assignment03Adv\Assignment03Adv\bin\Debug\net9.0\Assignment03Adv.runtimeconfig.json
+C:\Users\TheRe\RiderProjects\Assignment03Adv\Assignment03Adv\bin\Debug\net9.0\Assignment03Adv.dll
+C:\Users\TheRe\RiderProjects\Assignment03Adv\Assignment03Adv\bin\Debug\net9.0\Assignment03Adv.pdb
+C:\Users\TheRe\RiderProjects\Assignment03Adv\Assignment03Adv\obj\Debug\net9.0\Assignment03Adv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheRe\RiderProjects\Assignment03Adv\Assignment03Adv\obj\Debug\net9.0\Assignment03Adv.AssemblyInfoInputs.cache
+C:\Users\TheRe\RiderProjects\Assignment03Adv\Assignment03Adv\obj\Debug\net9.0\Assignment03Adv.AssemblyInfo.cs
+C:\Users\TheRe\RiderProjects\Assignment03Adv\Assignment03Adv\obj\Debug\net9.0\Assignment03Adv.csproj.CoreCompileInputs.cache
+C:\Users\TheRe\RiderProjects\Assignment03Adv\Assignment03Adv\obj\Debug\net9.0\Assignment03Adv.dll
+C:\Users\TheRe\RiderProjects\Assignment03Adv\Assignment03Adv\obj\Debug\net9.0\refint\Assignment03Adv.dll
+C:\Users\TheRe\RiderProjects\Assignment03Adv\Assignment03Adv\obj\Debug\net9.0\Assignment03Adv.pdb
+C:\Users\TheRe\RiderProjects\Assignment03Adv\Assignment03Adv\obj\Debug\net9.0\Assignment03Adv.genruntimeconfig.cache
+C:\Users\TheRe\RiderProjects\Assignment03Adv\Assignment03Adv\obj\Debug\net9.0\ref\Assignment03Adv.dll
